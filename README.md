@@ -1,2 +1,2 @@
-# Timer-in-C++
+# Countdown Timer
 A simple C++ program that models a countdown timer.
